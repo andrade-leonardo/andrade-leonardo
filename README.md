@@ -1,4 +1,4 @@
-### Olá! Me chamo Leonardo de Andrade 👋
+### Olá! Pode me chamar de Leonardo de Andrade 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo.andrade_._/)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-de-andrade-068277214/)
