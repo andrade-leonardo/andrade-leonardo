@@ -17,7 +17,7 @@
     <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-### Outras tecnologias que já utilizei
+### ⚙️ Outras tecnologias que já utilizei ⚙️
 <div style="display: inline-block">
     <img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
